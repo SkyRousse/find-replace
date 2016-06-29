@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: rgba(50, 59, 70, 1);
+  font-size: 3em;
+  margin-bottom: 30px;
+}
+
+label {
+  font-size: 1.4em;
+  color: rgba(50, 59, 70, .9);
+}
+
+button [type:submit] {
+  color: rgba(44, 86, 107, 1);
+}

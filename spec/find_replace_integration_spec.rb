@@ -20,6 +20,5 @@ describe('the find replace path', {:type => :feature}) do
     fill_in('replace', :with => 'marty')
     click_button('Submit')
     expect(page).to have_content('Rock star from Mars winning? Rolling out Magic breakfast martini what dying is for fools boom the rock star from Mars and winning two donuts and a Rockstar drinking marty the breakfast martying. Dying is for fools seven gram rocks I\'m still alive the marty the. Winning sober marty marty bro sober seven gram rocks two donuts and a Rockstar two donuts and a Rockstar.')
-save_and_open_page
   end
 end
